@@ -11,4 +11,4 @@ elsif number%3 == 0
 else 
   puts "Yayyyyy"
 end 
-fizzbuzz(14)
+fizzbuzz(30)
