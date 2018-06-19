@@ -11,6 +11,6 @@ elsif number%3 == 0
 else 
   puts "Yayyyyy"
 end 
-
+end
 
 fizzbuzz(30)
