@@ -3,7 +3,7 @@ def fizzbuzz(number)
 if number%3 == 0 
   fizzbuzz_3 == "fizz"
 
-elsif fizzbuzz(y) == "buzz"
+elsif number%3 == 0 
   fizzbuzz_5 == "buzz"
   
 
