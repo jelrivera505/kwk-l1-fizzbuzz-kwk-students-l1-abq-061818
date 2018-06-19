@@ -1,13 +1,13 @@
 def fizzbuzz(number)
   
-if number%3 == 0 
-  fizzbuzz_3 == "fizz"
+if number%15 == 0 
+  puts "fizz"
 
-elsif number%3 == 0 
-  fizzbuzz_5 == "buzz"
+elsif number%5 == 0 
+  puts "buzz"
   
-
-elsif fizzbuzz(z) == "fizzbuzz"
-  fizzbuzz_15 == "fizzbuzz"
+elsif number%3 == 0 
+  puts "fizzbuzz"
 else 
 end 
+fizzbuzz(30)
