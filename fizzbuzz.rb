@@ -1,11 +1,13 @@
 def fizzbuzz(number)
   
-if fizzbuzz(x) == "fizz"
+if number%3 == 0 
   fizzbuzz_3 == "fizz"
 
 elsif fizzbuzz(y) == "buzz"
   fizzbuzz_5 == "buzz"
+  
 
-else fizzbuzz(z) == "fizzbuzz"
+elsif fizzbuzz(z) == "fizzbuzz"
   fizzbuzz_15 == "fizzbuzz"
+else 
 end 
