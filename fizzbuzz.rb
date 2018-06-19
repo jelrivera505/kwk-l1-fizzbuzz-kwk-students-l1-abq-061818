@@ -1,4 +1,5 @@
-
+def fizzbuzz(number)
+  
 if fizzbuzz(x) == "fizz"
   fizzbuzz_3 == "fizz"
 
