@@ -1,15 +1,20 @@
-def fizzbuzz(number)
+def izzbuzz(number)
   
 if number%15 == 0 
-  puts "fizzbuzz"
+  puts "FizzBuzz"
+"FizzBuzz"
 
 elsif number%5 == 0 
-  puts "buzz"
-  
+  puts "Buzz"
+"Buzz"
+
 elsif number%3 == 0 
-  puts "fizz"
+  puts "Fizz"
+  "Fizz"
+  
 else 
   puts "Yayyyyy"
+  "Yayyyyy"
 end 
 end
 
