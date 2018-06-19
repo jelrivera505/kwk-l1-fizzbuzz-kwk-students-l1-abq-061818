@@ -14,7 +14,7 @@ elsif number%3 == 0
   
 else 
   puts "Yayyyyy"
-  "Yayyyyy"
+  
 end 
 end
 
