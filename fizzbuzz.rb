@@ -9,5 +9,6 @@ elsif number%5 == 0
 elsif number%3 == 0 
   puts "fizz"
 else 
+  puts "Yayyyyy"
 end 
 fizzbuzz(14)
